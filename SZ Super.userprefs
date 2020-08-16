@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TopDownController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlanetaControle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Minijogos\StartGameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MissionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TopDownController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

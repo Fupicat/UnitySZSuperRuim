@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planeta
+  - Fila1
+  - Fila2
+  - Fila3
+  - AplicadoImage
+  - AplicadoText
+  - Fade
+  - Inv
+  - Mapa
+  - Save
+  - "Cabe\xE7a"
+  - Roupa
+  - "Cal\xE7a"
+  - Luva
+  - Sapato
+  - Roupas
+  - CredAnim
+  - BGM
+  - SFX
+  - Activator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1681576017
+    locked: 0
+  - name: Foreground
+    uniqueID: 891193505
+    locked: 0
+  - name: Setas
+    uniqueID: 2994367351
+    locked: 0

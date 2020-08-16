@@ -8,6 +8,8 @@ Tem algumas coisas nesse projeto da Unity que nunca foram lançadas, como 3 mini
 ## Código:
 `Assets/Scripts/Audio/BGMusic.cs`, todos os scripts de `Assets/Scripts/Minijogos/Plataformas`, `Assets/Scripts/Minijogos/Ritmo` e `Assets/Scripts/Txt` são do canal [GamesPlusJames](https://www.youtube.com/c/GamesplusjamesPlays/) no youtube.
 
+[Plugin do GameJolt](https://assetstore.unity.com/packages/add-ons/services/billing/game-jolt-api-103938) feito por [Infected_Bytes](https://gamejolt.com/@infected_bytes).
+
 O resto é meu, licença [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Arte
